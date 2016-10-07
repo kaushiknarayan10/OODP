@@ -1,2 +1,3 @@
-# oodp
-Project for Object Oriented Design and Programming. Involves Java and REST API for an Order Management System for an Advertising agency.
+# README #
+
+This Repository contains the code for an Order Management System for a Wine Delivery. This was part of the project in IIT Chicago.
